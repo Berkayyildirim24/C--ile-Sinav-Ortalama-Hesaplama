@@ -1,0 +1,20 @@
+C:\Users\lenovo\source\repos\Sınav Ortalama\Sınav Ortalama\bin\Debug\Sınav Ortalama.exe.config
+C:\Users\lenovo\source\repos\Sınav Ortalama\Sınav Ortalama\bin\Debug\Sınav Ortalama.exe
+C:\Users\lenovo\source\repos\Sınav Ortalama\Sınav Ortalama\bin\Debug\Sınav Ortalama.pdb
+C:\Users\lenovo\source\repos\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav Ortalama.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav_Ortalama.Form1.resources
+C:\Users\lenovo\source\repos\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav_Ortalama.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav Ortalama.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav Ortalama.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav Ortalama.exe
+C:\Users\lenovo\source\repos\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav Ortalama.pdb
+C:\Users\lenovo\Desktop\Proje\Sınav Ortalama\Sınav Ortalama\bin\Debug\Sınav Ortalama.exe.config
+C:\Users\lenovo\Desktop\Proje\Sınav Ortalama\Sınav Ortalama\bin\Debug\Sınav Ortalama.exe
+C:\Users\lenovo\Desktop\Proje\Sınav Ortalama\Sınav Ortalama\bin\Debug\Sınav Ortalama.pdb
+C:\Users\lenovo\Desktop\Proje\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav Ortalama.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Proje\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav_Ortalama.Form1.resources
+C:\Users\lenovo\Desktop\Proje\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav_Ortalama.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Proje\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav Ortalama.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Proje\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav Ortalama.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Proje\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav Ortalama.exe
+C:\Users\lenovo\Desktop\Proje\Sınav Ortalama\Sınav Ortalama\obj\Debug\Sınav Ortalama.pdb
